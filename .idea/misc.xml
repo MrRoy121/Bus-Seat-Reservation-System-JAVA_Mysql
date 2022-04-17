@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_info_outline_black_24dp.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_privacy_policy.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_route_select.xml" value="0.16944444444444445" />
+        <entry key="app/src/main/res/layout/activity_usr_details.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_usr_login.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/app_bar.xml" value="0.16944444444444445" />
+        <entry key="app/src/main/res/layout/bus_list.xml" value="0.16944444444444445" />
+        <entry key="app/src/main/res/layout/bushistory.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/custom_toast1.xml" value="0.16944444444444445" />
+        <entry key="app/src/main/res/layout/nav_footer.xml" value="0.16944444444444445" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.16944444444444445" />
+        <entry key="app/src/main/res/layout/welcome_slide1.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/welcome_slide2.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/welcome_slide3.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/welcome_slide4.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/welcome_slide5.xml" value="0.20208333333333334" />
+        <entry key="driver/src/main/res/layout/activity_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

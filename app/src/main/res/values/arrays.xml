@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array" >
+        <item>English</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>BBA</item>
+        <item>Civil Engineering</item>
+        <item>Architecture</item>
+        <item>LAW</item>
+        <item>HTM</item>
+        <item>Bangla</item>
+    </string-array>
+</resources>

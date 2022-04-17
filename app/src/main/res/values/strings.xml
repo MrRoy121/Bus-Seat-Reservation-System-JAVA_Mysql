@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Leading University</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="pp">Privacy &amp; Policy</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to LU Bus!</string>
+    <string name="slide_1_desc">Leading University Bus Reservation And Tracking System.</string>
+
+    <string name="slide_2_title">Please Login</string>
+    <string name="slide_2_desc">You Have to Login First to Use Our Every Features</string>
+
+    <string name="slide_3_title">To Reserve A Seat &amp; Get Ticket</string>
+    <string name="slide_3_desc">You have to choose the point where you will take the bus &amp; Select a seat (one person can select maximum two seat)</string>
+
+    <string name="slide_5_title">Thanks and have Fun</string>
+    <string name="slide_5_desc">Our goal is to give you needed service and enhance our Application capacity more, Do give us Feedback</string>
+
+    <string name="slide_4_title">Track Your Bus</string>
+    <string name="slide_4_desc">You can track the realtime location of your reserved bus</string>
+    <string name="spinner_title">abc</string>
+
+
+    <string name="r1">a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a ,a ,a ,a ,a , a, a</string>
+    <string name="r2">a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a ,a ,a ,a ,a , a, a</string>
+    <string name="r3">a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a ,a ,a ,a ,a , a, a</string>
+    <string name="r4">a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a ,a ,a ,a ,a , a, a</string>
+
+</resources>
