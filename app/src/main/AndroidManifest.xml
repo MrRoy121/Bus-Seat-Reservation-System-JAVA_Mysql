@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bus">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/uni_logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Design.NoActionBar">
+        <activity android:name=".Fragments.privacy_policy" />
+        <activity android:name=".Fragments.about_developers" />
+        <activity android:name=".Fragments.usr_details" />
+        <activity android:name=".Fragments.driver_info" />
+        <activity android:name=".Fragments.bus_info" />
+        <activity android:name=".Fragments.booking_history" />
+        <activity android:name=".ticket" />
+        <activity android:name=".bus_list" />
+        <activity android:name=".route_select" />
+        <activity android:name=".Bus_seats.seat_71" />
+        <activity android:name=".Bus_seats.seat_38" />
+        <activity android:name=".usr_register" />
+        <activity android:name=".usr_login" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
