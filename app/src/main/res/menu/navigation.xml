@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+
+    <item android:title="About Us">
+        <menu>
+            <item
+                android:id="@+id/web"
+                android:icon="@drawable/uni_logo"
+                android:title="University Website" />
+            <item
+                android:id="@+id/dweb"
+                android:icon="@drawable/devs"
+                android:title="Developers Website" />
+        </menu>
+    </item>
+
+    <item android:title="Users">
+        <menu>
+            <item
+                android:icon="@drawable/ic_name"
+                android:id="@+id/account"
+                android:title="My Account" />
+
+            <item
+                android:id="@+id/bookings"
+                android:icon="@drawable/ic_member"
+                android:title="My Bookings" />
+
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_update"
+                android:title="Logout" />
+        </menu>
+    </item>
+</menu>

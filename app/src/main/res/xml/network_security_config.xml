@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">http://192.168.0.101/project/register.php</domain>
+        <domain includeSubdomains="true">http://192.168.0.101/pr/login.php</domain>
+        <domain includeSubdomains="true">http://192.168.0.101/pr/checkseat.php</domain>
+        <domain includeSubdomains="true">http://192.168.0.101/pr/seat.php</domain>
+        <domain includeSubdomains="true">http://192.168.0.101/pr/aaa.php?route=</domain>
+    </domain-config>
+</network-security-config>
